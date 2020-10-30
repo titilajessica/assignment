@@ -89,8 +89,9 @@
     In 1995, Musk was accepted to a Ph.D. program in energy physics/materials science at Stanford University in California.
     In California, Musk attempted to get a job at Netscape, but never received a response to his job inquiries.
     He ended up dropping out of Stanford after two days, deciding instead to join the Internet boom and launch an internet startup instead.</p>
-    <hr>
+   
 <h3>Contact Information</h3>
+
     <p> Elon Musk
         123 Generic Ave.
         Glasgow
