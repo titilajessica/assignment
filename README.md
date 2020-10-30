@@ -7,7 +7,9 @@
 <h1> <Strong>Elon Musk</Strong> </h1>
 
 
-<img src= "images.jpeg" alt="ElonMusk" width="400" height="400">                                                                        <video>video width control=400px height=400px </video> <source> <iframe width="500" height="415" src="https://www.youtube.com/embed/ySV_-JggXNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src= "images.jpeg" alt="ElonMusk" width="400" height="400">                                                                       
+
+<video> video width control=400px height=400px </video> <source> <iframe width="500" height="415" src="https://www.youtube.com/embed/ySV_-JggXNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
 <h1><center><Bold> Elon Musk is:</Bold> </center></h1>
 
@@ -102,7 +104,7 @@
         tel: 0141 666 6868
         Email: generic@email.com
         
-        </p>
+   </p>
     
 </body>
 
