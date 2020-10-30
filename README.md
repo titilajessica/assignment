@@ -78,9 +78,7 @@
      In 2012, Musk announced that SolarCity and Tesla would collaborate to use electric vehicle batteries to smooth the impact of rooftop solar on the power grid, with the program going live in 2013. </p>
 
      <hr>
-     
      <h3>Education</h3>
-     
      <p>While awaiting Canadian documentation, Musk attended the University of Pretoria for five months.
      Once in Canada, Musk entered Queen's University in 1989, avoiding mandatory service in the South African military.
      He left in 1992 to study economics and physics at the University of Pennsylvania; 
