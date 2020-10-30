@@ -4,7 +4,7 @@
 <head>
     <body style="background-color:beige;">
         
-<title> <Strong>Elon Musk</Strong> </title>
+<h1> <Strong>Elon Musk</Strong> </h1>
 
 
 <img src= "images.jpeg" alt="ElonMusk" width="400" height="400">                                                                        <video>video width control=400px height=400px </video> <source> <iframe width="500" height="415" src="https://www.youtube.com/embed/ySV_-JggXNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -91,13 +91,16 @@
     He ended up dropping out of Stanford after two days, deciding instead to join the Internet boom and launch an internet startup instead.</p>
    
 <h3>Contact Information</h3>
-
-    <p>Elon Musk
+<p>
+    
+        Elon Musk
         123 Generic Ave.
         Glasgow
         Scotland
         tel: 0141 666 6868
-        Email: generic@email.com</p>
+        Email: generic@email.com
+        
+        </p>
     
 </body>
 
