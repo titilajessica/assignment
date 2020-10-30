@@ -29,7 +29,7 @@
 <Strong>Paypal</Strong>            <date> March 1999 till October 2002 </date>  
 <img src= "Unknown-1.png" alt="paypal" width="200" height="200">
 
-<p>n March 1999, Musk co-founded X.com, an online financial services and e-mail payment company, with US$10 million from the sale of Zip2
+<p>In March 1999, Musk co-founded X.com, an online financial services and e-mail payment company, with US$10 million from the sale of Zip2
     Musk was ousted in October 2000 from his role as CEO (although he remained on the board) due to disagreements with other company executives over his desire to move PayPal's Unix-based infrastructure to a Microsoft one.In October 2002, 
     PayPal was acquired by eBay for US$1.5 billion in stock, of which Musk received US$165 million.
 </p>
@@ -78,9 +78,11 @@
      By 2013, SolarCity was the second largest provider of solar power systems in the United States.
      In 2012, Musk announced that SolarCity and Tesla would collaborate to use electric vehicle batteries to smooth the impact of rooftop solar on the power grid, with the program going live in 2013. </p>
 
-     <hr>
-     <h3>Education</h3>
-     <p>While awaiting Canadian documentation, Musk attended the University of Pretoria for five months.
+   <hr>
+     
+   <h3>Education</h3>
+     
+   <p> While awaiting Canadian documentation, Musk attended the University of Pretoria for five months.
      Once in Canada, Musk entered Queen's University in 1989, avoiding mandatory service in the South African military.
      He left in 1992 to study economics and physics at the University of Pennsylvania; 
      he graduated in 1997 with a Bachelor of Science degree in economics from the Wharton School and a Bachelor of Arts degree in physics from the College of Arts and Sciences.
@@ -91,8 +93,8 @@
     He ended up dropping out of Stanford after two days, deciding instead to join the Internet boom and launch an internet startup instead.</p>
    
 <h3>Contact Information</h3>
+
 <p>
-    
         Elon Musk
         123 Generic Ave.
         Glasgow
