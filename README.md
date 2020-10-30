@@ -92,12 +92,12 @@
    
 <h3>Contact Information</h3>
 
-    <p> Elon Musk
+    <p>Elon Musk
         123 Generic Ave.
         Glasgow
         Scotland
         tel: 0141 666 6868
-        Email: generic@email.com </p>
+        Email: generic@email.com</p>
     
 </body>
 
